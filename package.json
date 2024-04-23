@@ -1,29 +1,29 @@
 {
   "_args": [
     [
-      "github:nittygritty-uk/xlsx-populate",
+      "github:Atvero/xlsx-populate",
       "/Users/marcus/Projects/Atvero/AtveroSpfx"
     ]
   ],
-  "_from": "github:nittygritty-uk/xlsx-populate",
-  "_id": "xlsx-populate@github:nittygritty-uk/xlsx-populate#0389cf3110393ba5d2ff5d55731a725778f67d2c",
+  "_from": "github:Atvero/xlsx-populate",
+  "_id": "xlsx-populate@github:Atvero/xlsx-populate#0389cf3110393ba5d2ff5d55731a725778f67d2c",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/xlsx-populate",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "github:nittygritty-uk/xlsx-populate",
-    "rawSpec": "github:nittygritty-uk/xlsx-populate",
-    "saveSpec": "github:nittygritty-uk/xlsx-populate",
+    "raw": "github:Atvero/xlsx-populate",
+    "rawSpec": "github:Atvero/xlsx-populate",
+    "saveSpec": "github:Atvero/xlsx-populate",
     "fetchSpec": null,
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:nittygritty-uk/xlsx-populate#0389cf3110393ba5d2ff5d55731a725778f67d2c",
-  "_spec": "github:nittygritty-uk/xlsx-populate",
+  "_resolved": "github:Atvero/xlsx-populate#0389cf3110393ba5d2ff5d55731a725778f67d2c",
+  "_spec": "github:Atvero/xlsx-populate",
   "_where": "/Users/marcus/Projects/Atvero/AtveroSpfx",
   "author": {
     "name": "Dave T. Johnson",
